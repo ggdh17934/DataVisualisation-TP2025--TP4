@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+.dlt-state/
+.prefect/
+.dlt/secrets.toml
+currency_conversion/target/
+currency_conversion/logs/
+currency_conversion/dbt_packages/
